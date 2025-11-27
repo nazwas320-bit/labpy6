@@ -13,7 +13,7 @@
 <img width="856" height="703" alt="Tangkapan Layar 2025-11-27 pukul 08 26 11" src="https://github.com/user-attachments/assets/b52c72f8-52fe-478e-9d8f-84321a8aba01" />
 
 ## output tugas praktikum
-<img width="1320" height="733" alt="Tangkapan Layar 2025-11-27 pukul 08 25 10" src="https://github.com/user-attachments/assets/13ac5f5e-ba6d-437c-bb72-36a7a45f8113" 
+<img width="1320" height="733" alt="Tangkapan Layar 2025-11-27 pukul 08 25 10" src="https://github.com/user-attachments/assets/0cc43c11-1398-4bb8-b020-18e07da068c7" />
 
 ## flowchart
 
